@@ -1,9 +1,9 @@
-# go-gaze
+# gaze
 
 ## Installation
 
 ```bash
-$ go get -u github.com/kawakami-o3/go-gaze
+$ go get -u github.com/kawakami-o3/gaze
 ```
 
 ## Usage
