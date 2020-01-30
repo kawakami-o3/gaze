@@ -9,7 +9,7 @@ $ go get -u github.com/kawakami-o3/gaze
 ## Usage
 
 ```
-$ go-gaze your-exec-path
+$ gaze your-exec-path
 ```
 
 # ToDo
@@ -17,3 +17,4 @@ $ go-gaze your-exec-path
 - [ ] An option for the command which is triggered by inotify events.
 - [ ] Watch files recursively when the argument is a directory.
 - [ ] Redirect inputs to the running program.
+
